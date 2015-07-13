@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": null,
+  "properties": {
+    "Meta": {
+      "instanceID": "uuid:e57513db-774e-4610-8a54-94ee480a2a72",
+      "DeviceID": 353323053714480,
+      "TimeStartRecorded": "2015-07-10T16:38:58.167-04",
+      "TimeEndRecorded": "2015-07-10T16:39:18.973-04"
+    },
+    "CAMP": "AAA",
+    "SECTION": 6,
+    "ZONE": 4,
+    "BLOCK": 1,
+    "SURVDATE": "2015-07-10",
+    "CLUSTER": 1,
+    "TEAM": 2,
+    "HH": 3,
+    "FSCONST": 2,
+    "VINT": 0,
+    "VSUPCON": 0,
+    "meta": {
+      "instanceId": "uuid:aa8de210-28f2-11e5-b78d-5385f4505ee5",
+      "instanceName": "data",
+      "formId": "GLO-PH-FS-EN-FR-ref-23",
+      "deviceId": "imei:353323053714480",
+      "submissionTime": "2015-07-13T00:04:01.320Z"
+    }
+  }
+}
