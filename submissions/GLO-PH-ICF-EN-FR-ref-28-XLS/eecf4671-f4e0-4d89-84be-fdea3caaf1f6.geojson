@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": null,
+  "properties": {
+    "DeviceID": 353323053714480,
+    "TimeStartRecorded": "2015-07-09T10:12:45.132-04",
+    "TimeEndRecorded": "2015-07-09T10:13:09.741-04",
+    "CAMP_c": "BBB",
+    "SECTION": 2,
+    "ZONE": 2,
+    "BLOCK": 2,
+    "SURVDATE_c": "2015-07-09",
+    "CLUSTER_c": 2,
+    "TEAM": 1,
+    "HHN": 3,
+    "VINT": 1,
+    "VSUPCON": 1,
+    "meta": {
+      "instanceId": "uuid:eecf4671-f4e0-4d89-84be-fdea3caaf1f6",
+      "instanceName": "GLO_PH_Child_EN_FR_V2.8-XLS",
+      "formId": "GLO-PH-ICF-EN-FR-ref-28-XLS",
+      "version": 28,
+      "deviceId": "imei:353323053714480",
+      "submissionTime": "2015-07-13T00:09:19.720Z"
+    }
+  }
+}
